@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Clock</string>
     <string name="button_check">Check World Time</string>
+    <string name="nation1">New York</string>
+    <string name="nation2">London</string>
+    <string name="nation3">Tokyo</string>
 </resources>
